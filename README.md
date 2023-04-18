@@ -1,2 +1,2 @@
-# jest-learning-
+# jest-learning
 jest-learning 
