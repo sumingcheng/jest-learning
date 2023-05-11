@@ -1,0 +1,27 @@
+{
+  "name": "jest-learning",
+  "version": "1.0.0",
+  "description": "jest学习",
+  "main": "index.js",
+  "scripts": {
+    "jest": "jest",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumingcheng/jest-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumingcheng/jest-learning/issues"
+  },
+  "homepage": "https://github.com/sumingcheng/jest-learning#readme",
+  "devDependencies": {
+    "@babel/core": "^7.21.8",
+    "@babel/preset-env": "^7.21.5",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
